@@ -1,11 +1,17 @@
 PlantUML
 ========
 
+[![Release (latest by date)](https://img.shields.io/github/v/release/IK-dev/CheatSheet_Markdown/)](https://github.com/IK-dev/CheatSheet_Markdown/releases/latest)
+[![Release Date](https://img.shields.io/github/release-date/IK-dev/CheatSheet_Markdown/?color=blue)](https://github.com/IK-dev/CheatSheet_Markdown/releases/latest)
+[![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/IK-dev/CheatSheet_Markdown//latest)](https://github.com/IK-dev/CheatSheet_Markdown/commits/)
+
+end my
+
 [![Release (latest by date)](https://img.shields.io/github/v/release/plantuml/plantuml)](https://github.com/IK-dev/CheatSheet_Markdown/releases/latest)
 [![Release Date](https://img.shields.io/github/release-date/plantuml/plantuml?color=blue)](https://github.com/IK-dev/CheatSheet_Markdown/releases/latest)
 [![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/plantuml/plantuml/latest)](https://github.com/IK-dev/CheatSheet_Markdown/commits/)
 
-end my
+tmp1
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/plantuml?logo=github)](https://github.com/sponsors/plantuml/)
 [![GitHub Org's stars](https://img.shields.io/github/stars/plantuml)](https://github.com/plantuml/plantuml/stargazers/)
